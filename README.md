@@ -10,3 +10,9 @@ Repositório para o curso de pós-graduação em Projetos de Cloud Computing na 
   - Coaching e planejamento de carreira
   - Governança e qualidade de dados
   - Da iniciação ao orçamento do projeto
+
+- [x] Módulo 2:
+  - Storytelling 
+  - Segurança e Privacidade 
+  - Redes de comunicação, protocolo e roteamento
+  - Qualidade, recursos, comunicação e riscos de projetos
