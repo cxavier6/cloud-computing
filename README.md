@@ -16,3 +16,6 @@ Repositório para o curso de pós-graduação em Projetos de Cloud Computing na 
   - Segurança e Privacidade 
   - Redes de comunicação, protocolo e roteamento
   - Qualidade, recursos, comunicação e riscos de projetos
+
+- [x] Módulo 3:
+  
