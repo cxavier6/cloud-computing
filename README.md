@@ -18,4 +18,8 @@ Repositório para o curso de pós-graduação em Projetos de Cloud Computing na 
   - Qualidade, recursos, comunicação e riscos de projetos
 
 - [x] Módulo 3:
+  - Computação em nuvem
+  - Execução, controle e encerramento de projetos ágeis 
+  - Plataforma de software na nuvem para IoT
+  - Segurança em infraestrutura de redes e computação móvel 
   
